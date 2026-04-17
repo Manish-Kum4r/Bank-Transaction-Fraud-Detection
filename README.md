@@ -32,7 +32,7 @@ Filled map showing fraud hotspots
 
 Interactive slicers for filtering
 
-(PNG screenshot included in repo under /images/dashboard.png)
+(PNG screenshot included in repo under [/images/dashboard.png](https://github.com/Manish-Kum4r/Bank-Transaction-Fraud-Detection/commit/2f04153df1507a50185adbdc2b220cf7ee14bb88))
 
  Impact
 Enables quick identification of fraud trends and customer risk patterns
