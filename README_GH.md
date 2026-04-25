@@ -34,6 +34,8 @@ Interactive slicers for filtering
 
 (PNG screenshot included in repo under [/images/dashboard.png](https://github.com/Manish-Kum4r/Bank-Transaction-Fraud-Detection/commit/2f04153df1507a50185adbdc2b220cf7ee14bb88))
 
+Dashboard 2 Link - https://manish-kum4r.github.io/Bank-Transaction-Fraud-Detection/
+
  Impact
 Enables quick identification of fraud trends and customer risk patterns
 
